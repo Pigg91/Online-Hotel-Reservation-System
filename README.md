@@ -1,5 +1,6 @@
 # Online-Hotel-Reservation-System
 This project implement a full-stack web application for online hotel reservation
+
 The screenshots are in the demo file
 
 The main founction of the application:
