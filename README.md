@@ -1,5 +1,7 @@
 # Online-Hotel-Reservation-System
 This project implement a full-stack web application for online hotel reservation
+The screenshots are in the demo file
+
 The main founction of the application:
   1. Search for hotels(by address, zip code, name .etc) with filter function and reserve online as guest or user;
   2. User sing-up, Auto login and sign out, form validation(password, username .etc);
